@@ -4,9 +4,15 @@ Disclaimer - this project is for educational purposes only, we claim no rights t
 
 Welcome to Plantly, your new houseplant companion app!
 
-Designed to help you keep track of the plants that you own, their watering schedules, and discover new plants!
+Designed to help you keep track of the plants that you own, their watering schedules, and discover new plants.
 
-## Setup
+
+
+https://user-images.githubusercontent.com/112645660/219043006-1a931a12-6d74-4c30-836d-cefb86f7cf90.mp4
+
+
+
+## To run on your device
 
 First, install dependencies:
 
@@ -23,6 +29,7 @@ Alternatively, you can run using an emulator or on the web.
 At the login page, enter the following details:
 
 Email: fatfroggo@gmail.com
+
 Password: password
 
 ## Key features

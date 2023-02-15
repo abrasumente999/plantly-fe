@@ -8,7 +8,10 @@ Designed to help you keep track of the plants that you own, their watering sched
 
 
 
-https://user-images.githubusercontent.com/112645660/219043006-1a931a12-6d74-4c30-836d-cefb86f7cf90.mp4
+
+https://user-images.githubusercontent.com/112645660/219048357-93acc296-50bb-46ef-bb8f-bbbe18dfe753.mp4
+
+
 
 
 

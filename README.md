@@ -4,7 +4,7 @@ Disclaimer - this project is for educational purposes only, we claim no rights t
 
 Welcome to Plantly, your new houseplant companion app!
 
-Designed to help you keep track of the plants that you own, their watering schedules, and discover new plants.
+Designed to help you keep track of the plants that you own, monitor their watering schedules and discover new plants using our encyclopedia and plant identifier.
 
 
 
